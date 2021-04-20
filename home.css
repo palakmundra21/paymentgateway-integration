@@ -24,7 +24,8 @@
 
 .nav-link:hover{
     background-color:rgb(255,69,0);
-}*{
+}
+*{
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -36,7 +37,7 @@ body{
 .slider{
     overflow: hidden;
     height: 700px; 
-     /* width: 300px; */}
+     }
 
 .slider figure div{
     float: left;
@@ -109,43 +110,7 @@ left: 0%;
 100%{
     left: 0%;
 }}  
-/* #carousels {
-    margin: 0;
-    padding: 0 0 2.5rem;
-  }
-  
-  .carousel-image {
-    max-width: 100%;
-    max-height: 700px;
-  }
-  
-  .img2 {
-    width: 100%;
-  }
-  
-  .carousel-item {
-    position: relative;
-  }
-  
-  .carousel-control-next {
-    margin: 10px;
-  }
-  
-  .carousel-control-prev {
-    margin: 20px;
-  }
-  
-  .carousel-control-prev-icon {
-    height: 40px;
-    width: 40px;
-    border-radius: 10%;
-  }
-  
-  .carousel-control-next-icon {
-    height: 40px;
-    width: 40px;
-    border-radius: 10%;
-  } */
+
   .donate-text {
     color: #ee1818;
     font-weight: bold;
@@ -154,7 +119,7 @@ left: 0%;
     font-family: 'Gentium Book Basic', serif;
   }
   
-  /*site section*/
+  
   .site-section {
     margin: 15px;
   } 
